@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zohaib Sheikh
 - 👀 I’m a Data Scientist who wishes to solve problems in the world by means of data.
-- 🌱 I’m pursuing my masters at University of Illinois, Chicago.
+- 🌱 I’m currently working as a Senior Data Scientist.
 - 💞️ I’m looking to collaborate on machine learning, deep learning projects
 - 📫 You can reach me at zohaib.sheikh2407@gmail.com or send a message on LinkedIn.
 
